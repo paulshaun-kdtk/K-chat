@@ -1,0 +1,29 @@
+{
+  "name": "wa",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.0",
+    "@emotion/react": "^11.10.8",
+    "@emotion/styled": "^11.10.8",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.12.2",
+    "email-validator": "^2.0.4",
+    "eslint": "8.39.0",
+    "eslint-config-next": "13.3.2",
+    "firebase": "^9.21.0",
+    "moment": "^2.29.4",
+    "next": "13.3.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "styled-components": "^5.3.10",
+    "timeago-react": "^3.0.6"
+  }
+}
